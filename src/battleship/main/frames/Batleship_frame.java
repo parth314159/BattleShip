@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package battleship.main;
+package battleship.main.frames;
 
-import battleship.socketcode.Battleship_Socket_Server;
-import battleship.socketcode.Battleship_Socket_Client;
+import battleship.main.socketcode.Battleship_Socket_Server;
+import battleship.main.socketcode.Battleship_Socket_Client;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;

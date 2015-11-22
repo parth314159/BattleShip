@@ -1,5 +1,5 @@
  
-package battleship.main;
+package battleship.main.frames;
 /** 
 author :- Parth and Vikhyat
 */ 
