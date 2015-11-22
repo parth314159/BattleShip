@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package main.com;
+package battleship.main.beans;
 
 import java.io.Serializable;
 
@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 public class Position implements Serializable{
     
-int xlocation;
-int ylocation;
+public int xlocation;
+public int ylocation;
     
 }

@@ -1,4 +1,4 @@
-package main.com;
+ package battleship.main;
 
 import java.awt.Dimension;
 import java.awt.GridLayout;

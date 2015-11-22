@@ -1,5 +1,5 @@
  
-package main.com;
+package battleship.main;
 /** 
 author :- Parth and Vikhyat
 */ 
